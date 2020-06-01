@@ -1,2 +1,6 @@
-# swag0
-first code
+#include <stdio.h>
+
+int main(void)
+{
+printf("hello, world");
+}
